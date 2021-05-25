@@ -1,3 +1,2 @@
 # Java
-All Java Programs
-My main language right now
+All Java Programs. My main language right now
