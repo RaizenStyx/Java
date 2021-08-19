@@ -15,7 +15,7 @@ package cs2.projects.project4.ui;
 import cs2.projects.project4.models.Encounter;
 import cs2.projects.project4.ui.menu.ConsoleMenu;
 import cs2.projects.project4.ui.menu.commands.mainmenu.*;
-
+// Main Driver Component
 public class EncounterGen {
     public static void main(String[] args) {
         final String MENU_NAME = "MONSTER LAB! Encounter Manager\n" +
